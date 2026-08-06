@@ -1,0 +1,6 @@
+{
+  "name": "For My Book Friend",
+  "description": "Photorealistic 3D private library room with interactive book collection, warm sunset window, rich wooden shelves, climbing ivy, woven carpet dedication, and custom header.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
